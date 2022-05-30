@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="栈基础.cpp">
+    <ClCompile Include="Array Stack.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
